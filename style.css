@@ -654,7 +654,7 @@ height: 2.8rem;
 
 
 .banner-text p {
-    font-size: .9rem;
+    font-size: 1rem;
     padding: 0;
     line-height: 1.5rem;
     
@@ -764,15 +764,15 @@ height: 2.8rem;
    }
 
    .col-1 h5 {
-    font-size: 1rem;
+    font-size: 2rem;
     padding-top: 20px;
     font-weight: 600;
     letter-spacing: .09rem;
    }
 
 .col-1 h6 {
-    font-size: .85rem;
-    font-weight: 500;
+    font-size: 1.03rem;
+    font-weight: 600;
    letter-spacing: .1rem;
    color: #000;
 }
@@ -788,7 +788,7 @@ height: 2.8rem;
    
 
    .col-1 p, .col-1 ul li {
-    font-size: .9rem;
+    font-size: 1rem;
     padding-top: 10px;
     line-height: 1.7rem;
     padding-bottom: 0;
