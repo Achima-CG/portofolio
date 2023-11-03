@@ -684,8 +684,8 @@ height: 2.8rem;
      }
 
  .my-social ul li {
-  padding-top: 45px;
-    padding-bottom: 40px;
+  padding-top: 50px;
+    padding-bottom: 45px;
   
   
 }
@@ -693,7 +693,7 @@ height: 2.8rem;
     .my-social ul li a {
        
   
-        font-size: .9rem;
+        font-size: 1rem;
     
     }
 
